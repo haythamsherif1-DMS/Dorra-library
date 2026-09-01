@@ -1,5 +1,5 @@
 // عند التعديل مستقبلاً، غير رقم الإصدار هنا (مثلاً من v1.0.0 إلى v1.0.1)
-const CACHE_NAME = 'dms-cache-v1.1.0'; 
+const CACHE_NAME = 'Dorra-libarary-cache-v1.1.0'; 
 
 const assets = [
   './',
